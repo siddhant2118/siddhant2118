@@ -57,19 +57,31 @@ Working on flight software, telemetry pipelines, and ground station systems for 
 
 ---
 
-## 🛠️ Tools & Tech
+## 🔧 Technologies & Tools
 
-**Languages:**  
-C++, Python, Verilog, Bash
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Robotics & Embedded:**  
-ROS2, microcontrollers, sensors, telemetry systems
+### Robotics & Embedded
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-FF6600?style=flat-square&logo=xilinx&logoColor=white)
 
-**Digital Design:**  
-FPGA, FFT pipelines, BRAM, FIFOs, SPI interfaces
+### AI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
-**AI & Systems:**  
-Agent-based workflows, edge AI concepts, system validation loops
+### Web & Systems
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
