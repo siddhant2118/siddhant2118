@@ -20,20 +20,20 @@ I’m especially interested in systems that run under real constraints: limited 
 
 ## 🚀 Projects
 
-### Nova
+### [Nova](https://github.com/siddhant2118/nova-delta)
 An AI co-pilot for building complex robotic systems.
 Nova takes a mission description, detects connected hardware, generates firmware and ROS2 configuration, and runs automated test cases directly on hardware.  
 The goal is to reduce the friction that kills most robotics projects before they even move.
 
-### AegisCycle
+### [AegisCycle](https://github.com/siddhant2118/aegiscycle)
 An agentic AI health copilot for reproductive longevity, focused on early detection and adaptive management of PCOS, endometriosis, and menopause-related risks.  
 Built during HackAging.ai 2025 and awarded a USD 3,000 grant by AthenaDAO.
 
-### FPGA Audio Visualizer
+### [FPGA Audio Visualizer](https://github.com/siddhant2118/fpga_audio_visualiser-)
 A real-time audio spectrum analyzer and waveform visualizer built on a Basys3 FPGA.
 Captures live audio, performs FFT-based processing, displays frequency and waveform data on dual OLEDs, and outputs reconstructed audio through a DAC.
 
-### NUS CanSat (UREX)
+### [NUS CanSat (UREX)](https://github.com/siddhant2118/Cansat-2026)
 Software Lead for NUS CanSat 2026.
 Working on flight software, telemetry pipelines, and ground station systems for an international aerospace competition.
 
@@ -43,7 +43,6 @@ Working on flight software, telemetry pipelines, and ground station systems for 
 
 - Winner, Female Reproductive Longevity Track at HackAging.ai 2025 (USD 3,000 grant)
 - NUS SDG Open Hack Runner-Up and Singapore Finalist
-- Green Lane to NUS VIP Impact Track (fast-track eligibility for up to SGD 10,000)
 - IEEE MYOSA 2.0 Finalist for CubeSat health monitoring system concept
 
 ---
